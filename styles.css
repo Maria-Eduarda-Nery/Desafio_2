@@ -1,0 +1,86 @@
+* {
+   margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+  }
+  
+  /*Estilização da header*/
+  header {
+    height: 150px; /*altura*/
+    background-color: rgb(209, 70, 209); /*cor de fundo*/
+  }
+
+  .content .logo{
+    width: 100px;
+    height: auto;
+    cursor: pointer;
+    display: inline;
+    flex-direction: initial;
+    justify-content: center;
+    align-items: center;
+  }
+
+  
+  li {
+   display: inline-block;
+   margin-top: 30px;
+   margin-left: 110px;
+   width: 100px;
+   height: auto;
+   cursor: pointer;
+   display: inline;
+   flex-direction: initial;
+   justify-content: center;
+   align-items: center;
+    color: black; /*cor da fonte*/
+  }
+
+  /*Estiização da main*/
+  
+
+ .roupa {
+    border: solid rgb(255, 36, 36);
+    display: inline-block;
+    margin-left: 90px;
+    margin-top: 30px;
+    align-content: center;
+  }
+  
+  section {
+    width: 800vw;
+    height: 9px;
+    display: inline;
+    align-items: center;
+    justify-content: space-around;
+    padding-left: 5rem;
+  }
+  
+  h3,
+  button {
+    margin-left: 119px;
+  }
+  
+  #formMain {
+    margin-left: 30px;
+  }
+  
+  /*Estilização do footer*/
+  
+  footer {
+    background-color: pink;
+    height: 80px;
+    margin-top: 20px;
+    padding-left: 410px;
+    padding-top: 20px;
+  }
+  
+  #formfooter {
+    margin-left: 2500px;
+  }
+  
+  h2 {
+    font-size: 20px; /*Tamanho da fonte*/ 
+  }
+  
